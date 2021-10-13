@@ -10,9 +10,9 @@ p{
   color:mediumvioletred
 }
 
-img{
-  max-width: 30px;
-  max-height: 30px;
+.image{
+  max-width: 300px;
+  max-height: 300px;
   height: auto;
   width: auto;
   display: block;
