@@ -1,16 +1,16 @@
-h2{
+h2 {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color:hotpink;
   text-align: center;
   
 }
-p{
+p {
   text-align: center;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color:mediumvioletred
 }
 
-.image{
+.image {
   max-width: 500px;
   max-height: 500px;
   height: auto;
